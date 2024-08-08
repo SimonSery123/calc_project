@@ -31,4 +31,4 @@ kde proběhne potřebná logika a strukturace finálního DOM (opět v rámci fu
 
 konkrétní popis jednotlivých funkcí je k vidění v souboru App.js, případně pak v rámci obhajoby. Tailwind CSS classes popsány nejsou, můžu popsat v rámci obhajoby.
 
-![Obrazek kalkulacky!](Untitled.png)
+![Obrazek kalkulacky!](./Untitled.png'Untitled.png')
