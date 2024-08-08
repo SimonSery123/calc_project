@@ -30,3 +30,5 @@ Je tedy vytvořena funkce, která nese JSX kód a je následně vyexportována d
 kde proběhne potřebná logika a strukturace finálního DOM (opět v rámci funkce const App = () => {content};), následně je expotována (export default App;) do index.js, který již renderuje virtual DOM (ReactDOM.render()) do index.html templaty (``<div id='root'></div>``). 
 
 konkrétní popis jednotlivých funkcí je k vidění v souboru App.js, případně pak v rámci obhajoby. Tailwind CSS classes popsány nejsou, můžu popsat v rámci obhajoby.
+
+![Obrazek kalkulacky!](Untitled.png)
